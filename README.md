@@ -33,7 +33,8 @@ Pada latihan ini menggunakan abstract class OperasiBilangan, yang nantinya akan 
 
 # Kesimpulan
 
-Polimorphisme berarti banyak bentuk, maksudnya terdapat method yang sama namun menghasilkan aksi yang berbeda. Sehingga polimorphisme ini juga menggunakan konsep overloading dan overriding. 
+Polimorphisme berarti banyak bentuk, maksudnya terdapat method yang sama namun menghasilkan aksi yang berbeda. Sehingga polimorphisme ini juga menggunakan konsep overloading dan overriding. Ciri ciri overloading yaitu memiliki method yang sama, Parameter berbeda dan biasanya didalam satu class, Nama method sama, Isi / Body method berbeda, dan biasanya berbeda class. Menggunakan class interface dan implement.
+
 
 # Terima Kasih
 
