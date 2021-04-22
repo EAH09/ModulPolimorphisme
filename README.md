@@ -22,3 +22,7 @@ No : X RPL 1
 
 # Tugas Tambahan
 ![Output Tugas Tambahan](https://github.com/EAH09/ModulPolimorphisme/blob/280f554d59ba21d6c9d7a4c77498ba37097f7928/Output%20Tugas%20Tambahan.png)
+
+# Kesimpulan
+
+# Terima Kasih
